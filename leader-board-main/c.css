@@ -1,0 +1,190 @@
+
+ body{
+    margin-top: 100px;
+    max-width: 1240px; 
+    border: 3px solid wheat;
+    margin:  0 auto;
+   
+} 
+.hed,.hed2{
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: rgb(79, 76, 76);
+    font-weight: blod;
+}
+.hed2{
+    margin-left: 500px;
+    gap: 20px;
+    font-size: 20px;
+    
+} 
+.hed1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.hed{
+    margin-top: 100px;
+}
+ .main{
+     display: flex; 
+    gap: 90px;
+    margin-top: 40px;
+    flex-direction: column; 
+} 
+    h1{
+    font-size: 60px;
+    color: rgb(56, 56, 56);
+     margin-bottom: -5px; 
+} 
+ .main1 p{
+    font-size: 20px;
+    font-weight: blod;
+}
+   .a{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    margin-left: 670px;
+    margin-top: 190px;
+}   
+.cam{
+    margin-left: 640px;
+    position: absolute;
+    margin-top: -300px;
+}  
+.bt{
+    height: 50px;
+    width: 300px;
+    background-color: rgb(230, 15, 140);
+    border-radius: 30px;
+    font-size: 20px;
+    color: white;
+    border: none;
+    
+}
+.logo{
+    height: 80px;
+    width: 1240px;
+   
+    
+  /* padding: 15px;
+  background-color: white;
+  box-shadow: 0px 10px 10px 0px; */
+
+  
+   
+     margin-top: 150px;
+    margin-bottom: 100px; 
+    border: 2px   solid silver;
+}
+.players{
+    display: flex;
+    gap: 75px;
+    margin-left: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.cours{
+    display: flex;
+    color: goldenrod;
+    gap:1.2px
+}
+.x{
+    margin-top: 3px;
+    color: black;
+}
+.t{
+    font-size: 19px;
+    color: rgb(40, 39, 39);
+}
+.popular{
+    height: 457px;
+    width: 300px;
+    /* border: 3px solid silver; */
+    box-shadow: 10px 10px 10px 10px silver;
+    border-radius: 4px;
+    margin-bottom: 40px;
+    margin-left: 110px;
+    display: grid;
+    padding: 5px;
+    column-gap: 100000px;
+    row-gap: 10px;
+   
+}
+.pc{
+    margin-left: 450px;
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sr{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+ .xx{
+    margin-left: 1100px;
+    color: blueviolet;
+    margin-top: -20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+.final1{
+    display: flex;
+}
+.image{
+    width: 40px;
+}
+.ft{
+    height: 400px;
+    width: 1350px;
+    background-color: chartreuse;
+}
+.hh{
+    margin-left: 400px;
+    color: black;
+    font-size: 40px;
+}
+.par{
+    margin-left: 400px;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+.zx{
+    margin-left: 50px;
+}
+.jbtn{
+    height: 40px;
+    width: 170px;
+    background-color: rgb(140, 9, 35);
+    color: aliceblue;
+    border: none;
+    font-size: 20px;
+    margin-left: 480px;
+    margin-top: -400px;
+    margin-bottom: 20px;
+
+
+}
+.fl{
+    font-size: 40px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    justify-content: center;
+  
+}
+.fl1{
+   
+    margin-left: 450px;
+    font-size: 40px;
+}
+
+
+
+    
